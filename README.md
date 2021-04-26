@@ -21,10 +21,6 @@ Topics of either theoretical or applied interest include, but are not limited to
 - Camera ready copies due: October 01, 2021
 - Conference dates: December 13-17, 2021
 
-You can use the [editor on GitHub](https://github.com/lacl2021/lacl2021.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ### Invited speakers
 
 TBA
