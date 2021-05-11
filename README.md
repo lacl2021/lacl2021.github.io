@@ -14,6 +14,16 @@ Topics of either theoretical or applied interest include, but are not limited to
 - Applications of these logical frameworks to natural language processing tasks (automated analysis, generation, acquisition, textual inference);
 - Applications of the logical formalisation of language faculty to cognitive sciences.
 
+### Submission
+
+LACL accepts two kinds of papers:
+
+- Regular (long) papers between 12 and 16 pages.
+- Short papers (work in progress, system descriptions, position papers) between 4 and 8 pages.
+
+Submission is exclusively admitted electronically, in PDF format, through the EasyChair system. The submission site is
+[https://easychair.org/conferences/?conf=lacl2021](https://easychair.org/conferences/?conf=lacl2021)
+
 ### Important dates
 
 - Paper submission deadline: June 27, 2021 
@@ -24,6 +34,13 @@ Topics of either theoretical or applied interest include, but are not limited to
 ### Invited speakers
 
 TBA
+
+### Program committee
+
+- Denis Bechet, LINA, Univesity of Nantes
+- Annie Foret, IRISA, Rennes University (Chair)
+- Robert Levine, Ohio State University
+- Richard Moot, CNRS, LIRMM, Montpellier University (Chair)
 
 ### Contact
 
