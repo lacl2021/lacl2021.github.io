@@ -37,10 +37,15 @@ TBA
 
 ### Program committee
 
-- Denis Bechet, LINA, Univesity of Nantes
+- Maxime Amblard, Universit&eacute; de Lorraine
+- Denis B&eacute;chet, LINA, Univesity of Nantes
+- Wojciech Buszkowski, Adam Mickiewicz University in Poznan
+- Heather	Burnett, CNRS, Universit&eacute; Paris VII
+- Stergios Chatzikyriakidis, CLASP, University of Gothenburg
 - Annie Foret, IRISA, Rennes University (Chair)
 - Robert Levine, Ohio State University
 - Richard Moot, CNRS, LIRMM, Montpellier University (Chair)
+- Glyn Morrill, Universitat Polit&egrave;cnica de Catalunya
 
 ### Contact
 
