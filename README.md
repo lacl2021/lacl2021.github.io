@@ -39,6 +39,7 @@ TBA
 
 - Maxime Amblard, Universit&eacute; de Lorraine
 - Denis B&eacute;chet, LINA, Univesity of Nantes
+- Daisuke Bekki, Ochanomizu University
 - Wojciech Buszkowski, Adam Mickiewicz University in Poznan
 - Heather	Burnett, CNRS, Universit&eacute; Paris VII
 - Stergios Chatzikyriakidis, CLASP, University of Gothenburg
