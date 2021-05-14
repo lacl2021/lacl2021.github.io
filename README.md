@@ -40,14 +40,14 @@ TBA
 - Maxime Amblard, Universit&eacute; de Lorraine
 - Denis B&eacute;chet, LINA, Univesity of Nantes
 - Daisuke Bekki, Ochanomizu University
-- Wojciech Buszkowski, Adam Mickiewicz University in Poznan
 - Heather	Burnett, CNRS, Universit&eacute; Paris VII
+- Wojciech Buszkowski, Adam Mickiewicz University in Poznan
 - Stergios Chatzikyriakidis, CLASP, University of Gothenburg
 - Annie Foret, IRISA, Rennes University (Chair)
-- Nissim	Francez, Technion - IIT
+- Nissim Francez, Technion - IIT
 - Philippe de Groote, INRIA
 - Gregory	Kobele, Universit&auml;t Leipzig
-- Hans	Leiss, Universit&auml;t M&uuml;nchen, CIS
+- Hans Leiss, Universit&auml;t M&uuml;nchen, CIS
 - Robert Levine, Ohio State University
 - Zhaohui	Luo, Royal Holloway, University of London
 - Alda	Mari, Institut Jean Nicod, CNRS/ENS/EHESS/PSL
