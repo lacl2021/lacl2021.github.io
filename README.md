@@ -16,6 +16,8 @@ Topics of either theoretical or applied interest include, but are not limited to
 
 ### Submission
 
+Articles should be written in the LaTeX format of LNCS by Springer (see authors instructions at [http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0](http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0)).
+
 LACL accepts two kinds of papers:
 
 - Regular (long) papers between 12 and 16 pages.
