@@ -66,7 +66,7 @@ TBA
 - Serguei	Soloviev, IRIT, Universit&eacute; Toulouse 3
 - Mark Steedman, University of Edinburgh
 - Jakub	Szymanik, University of Amsterdam
-- Oriol Valent&igrave;n, Universitat Polit&egrave;cnica de Catalunya
+- Oriol Valent&iacute;n, Universitat Polit&egrave;cnica de Catalunya
 - Marek	Zawadowski, University of Warsaw
 
 ### Contact
