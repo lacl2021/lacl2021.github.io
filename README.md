@@ -47,7 +47,7 @@ TBA
 - Stergios Chatzikyriakidis, CLASP, University of Gothenburg
 - Annie Foret, IRISA, Rennes University (Chair)
 - Nissim Francez, Technion - IIT
-- Philippe de Groote, INRIA
+- Philippe de Groote, INRIA Lorraine/LORIA
 - Gregory	Kobele, Universit&auml;t Leipzig
 - Yusuke Kubota, National Institute for Japanese Language and Linguistics, Tokyo
 - Hans Leiss, Universit&auml;t M&uuml;nchen, CIS
