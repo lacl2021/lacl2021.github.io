@@ -49,6 +49,7 @@ TBA
 - Nissim Francez, Technion - IIT
 - Philippe de Groote, INRIA
 - Gregory	Kobele, Universit&auml;t Leipzig
+- Yusuke Kubota, National Institute for Japanese Language and Linguistics, Tokyo
 - Hans Leiss, Universit&auml;t M&uuml;nchen, CIS
 - Robert Levine, Ohio State University
 - Zhaohui	Luo, Royal Holloway, University of London
@@ -65,6 +66,7 @@ TBA
 - Serguei	Soloviev, IRIT, Universit&eacute; Toulouse 3
 - Mark Steedman, University of Edinburgh
 - Jakub	Szymanik, University of Amsterdam
+- Oriol Valent&igrave;n, Universitat Polit&egrave;cnica de Catalunya
 - Marek	Zawadowski, University of Warsaw
 
 ### Contact
