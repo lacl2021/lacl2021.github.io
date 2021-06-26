@@ -1,5 +1,7 @@
 ## Logical Aspects of Computational Linguistics 2021
 
+##### Extended deadline: July 11, 2021
+
 LACL 2021 is the tenth international conference on Logical Aspect of Computational Linguistics. The scope of this conference is the use of type theoretic, proof theoretic and model theoretic methods for describing natural language syntax, semantics and pragmatics as well as the implementation of natural language processing software relying on logical formalisation. LACL 2021 will be held online 13-17 december 2021, as part of the Mathematical Linguistics (MALIN) week, and held conjointly with Mathematics of Language, [Logic and Algorithms in Computational Linguistics](https://staff.math.su.se/rloukanova/LACompLing2021-web/), and Natural Language and Computer Science.
 
 ### Scope
@@ -28,9 +30,9 @@ Submission is exclusively admitted electronically, in PDF format, through the Ea
 
 ### Important dates
 
-- Paper submission deadline: June 27, 2021 
-- Notification of acceptance: September 12, 2021
-- Camera ready copies due: October 01, 2021
+- EXTENDED Paper submission deadline: Juyl 11, 2021 
+- Notification of acceptance: September 26, 2021
+- Camera ready copies due: October 15, 2021
 - Conference dates: December 13-17, 2021
 
 ### Invited speakers
