@@ -30,7 +30,7 @@ Submission is exclusively admitted electronically, in PDF format, through the Ea
 
 ### Important dates
 
-- EXTENDED Paper submission deadline: Juyl 11, 2021 
+- EXTENDED Paper submission deadline: July 11, 2021 
 - Notification of acceptance: September 26, 2021
 - Camera ready copies due: October 15, 2021
 - Conference dates: December 13-17, 2021
