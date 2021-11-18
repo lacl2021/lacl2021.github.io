@@ -16,23 +16,23 @@ Topics of either theoretical or applied interest include, but are not limited to
 
 ### Accepted papers
 
-- Maxime Amblard, Maria Boritchev and Philippe de Groote, _An inquisitive account of wh-questions through event semantics_
+- Maxime Amblard, Maria Boritchev and Philippe de Groote, _An inquisitive account of wh-questions through event semantics_.
 
-- William Babonnaud, _Covariant Subtyping Applied to Semantic Predicate Calculi_
+- William Babonnaud, _Covariant Subtyping Applied to Semantic Predicate Calculi_.
 
-- Arno Bastenhof, _Replacing implications with negation in non-associative Lambek calculus_
+- Arno Bastenhof, _Replacing implications with negation in non-associative Lambek calculus_.
 
-- Yusuke Kubota and Robert Levine, _The logic of the English auxiliary system_
+- Yusuke Kubota and Robert Levine, _The logic of the English auxiliary system_.
 
-- Zhaohui Luo, _On Type-Theoretical Semantics of Donkey Anaphora_
+- Zhaohui Luo, _On Type-Theoretical Semantics of Donkey Anaphora_.
 
 - Lachlan McPheat, Mehrnoosh Sadrzadeh and Hadi Wazni, _Vector Space Semantics for Lambek Calculus with Soft Subexponentials_
 
-- Alexey Stukachev and Artem Burnistov, _Computable Functionals of Finite Types in Montague Semantics_
+- Alexey Stukachev and Artem Burnistov, _Computable Functionals of Finite Types in Montague Semantics_.
 
 - Oriol Valentín, _Algebraic Semantics for Full Displacement Calculus with Linguistic Subexponentials and Bracket Modalities_.
 
-- Yukiko Yana, Koji Mineshima and Daisuke Bekki, _The proviso problem from a proof-theoretic perspective_
+- Yukiko Yana, Koji Mineshima and Daisuke Bekki, _The proviso problem from a proof-theoretic perspective_.
 
 ### Important dates
 
