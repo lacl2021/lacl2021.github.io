@@ -16,7 +16,7 @@ Topics of either theoretical or applied interest include, but are not limited to
 
 ### Accepted papers
 
-- Maxime Amblard, Maria Boritchev and Philippe de Groote,_An inquisitive account of wh-questions through event semantics_
+- Maxime Amblard, Maria Boritchev and Philippe de Groote, _An inquisitive account of wh-questions through event semantics_
 
 - William Babonnaud, _Covariant Subtyping Applied to Semantic Predicate Calculi_
 
