@@ -1,7 +1,5 @@
 ## Logical Aspects of Computational Linguistics 2021
 
-##### Extended deadline: July 11, 2021
-
 LACL 2021 is the tenth international conference on Logical Aspect of Computational Linguistics. The scope of this conference is the use of type theoretic, proof theoretic and model theoretic methods for describing natural language syntax, semantics and pragmatics as well as the implementation of natural language processing software relying on logical formalisation. LACL 2021 will be held online 13-17 december 2021, as part of the Mathematical Linguistics (MALIN) week, and held conjointly with Mathematics of Language, [Logic and Algorithms in Computational Linguistics](https://staff.math.su.se/rloukanova/LACompLing2021-web/), and Natural Language and Computer Science.
 
 ### Scope
@@ -16,17 +14,25 @@ Topics of either theoretical or applied interest include, but are not limited to
 - Applications of these logical frameworks to natural language processing tasks (automated analysis, generation, acquisition, textual inference);
 - Applications of the logical formalisation of language faculty to cognitive sciences.
 
-### Submission
+### Accepted papers
 
-Articles should be written in the LaTeX format of LNCS by Springer (see authors instructions at [http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0](http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0)).
+- Maxime Amblard, Maria Boritchev and Philippe de Groote,_An inquisitive account of wh-questions through event semantics_
 
-LACL accepts two kinds of papers:
+- William Babonnaud, _Covariant Subtyping Applied to Semantic Predicate Calculi_
 
-- Regular (long) papers between 12 and 16 pages.
-- Short papers (work in progress, system descriptions, position papers) between 4 and 8 pages.
+- Arno Bastenhof, _Replacing implications with negation in non-associative Lambek calculus_
 
-Submission is exclusively admitted electronically, in PDF format, through the EasyChair system. The submission site is
-[https://easychair.org/conferences/?conf=lacl2021](https://easychair.org/conferences/?conf=lacl2021)
+- Yusuke Kubota and Robert Levine, _The logic of the English auxiliary system_
+
+- Zhaohui Luo, _On Type-Theoretical Semantics of Donkey Anaphora_
+
+- Lachlan McPheat, Mehrnoosh Sadrzadeh and Hadi Wazni, _Vector Space Semantics for Lambek Calculus with Soft Subexponentials_
+
+- Alexey Stukachev and Artem Burnistov, _Computable Functionals of Finite Types in Montague Semantics_
+
+- Oriol Valentín, _Algebraic Semantics for Full Displacement Calculus with Linguistic Subexponentials and Bracket Modalities_.
+
+- Yukiko Yana, Koji Mineshima and Daisuke Bekki, _The proviso problem from a proof-theoretic perspective_
 
 ### Important dates
 
